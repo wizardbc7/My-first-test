@@ -1,3 +1,3 @@
 <?php
-	phpinfo();
+	echo "this is my first test";
 ?>
